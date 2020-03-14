@@ -389,6 +389,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libsensorndkbridge
 
+# Product
+PRODUCT_SHIPPING_API_LEVEL := 29
+
 # Secure element
 PRODUCT_PACKAGES += \
     SecureElement

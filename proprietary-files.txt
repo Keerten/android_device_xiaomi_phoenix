@@ -73,6 +73,10 @@ vendor/lib64/hw/com.qualcomm.qti.ant@1.0-impl.so
 vendor/lib/com.qualcomm.qti.ant@1.0.so
 vendor/lib/hw/com.qualcomm.qti.ant@1.0-impl.so
 
+# AptX
+product/lib64/libaptXHD_encoder.so
+product/lib64/libaptX_encoder.so
+
 # Audio
 vendor/lib64/hw/audio.primary.sm6150.so
 vendor/lib64/libadiertac.so
